@@ -1,0 +1,20 @@
+{
+  "name": "buhler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "BalancedBrackets.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.3.4"
+  },
+  "devDependencies": {
+    "mocha": "^9.1.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
